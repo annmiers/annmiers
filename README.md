@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+  <td>
+    <tr>
+      <p>[Учебный проект]</p>
+    </tr>
+  </td>
+</table>
