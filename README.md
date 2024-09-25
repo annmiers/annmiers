@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <table>
-  <td>
-    <tr>
-      <p>[Учебный проект]</p>
-    </tr>
-  </td>
+  <tr>
+    <td>[Учебный проект]</td>
+    <td>9.1</td>
+    <td>Зелёная миля</td>
+    <td>1999</td>
+  </tr>
 </table>
