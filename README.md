@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>[Учебный проект] Закрывающий тег</td>
-    <td><a><img src="eye_5370702.png"></a></td>
+    <td><a><img src="eye_5370702.png" width="50px" height="50px"></a></td>
     <td>Зелёная миля</td>
     <td>1999</td>
   </tr>
