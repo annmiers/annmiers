@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <td>[Учебный проект] Закрывающий тег</td>
-    <td><a><img src="eye_5370702.png" width="50px" height="50px"></a></td>
-    <td>Зелёная миля</td>
-    <td>1999</td>
+    <td>[Учебный проект]</td>
+    <td>Закрывающий тег</td>
+    <td><a href="https://annmiers.github.io/zakrivayuschiy-teg-f/"><img src="eye_5370702.png" width="50px" height="50px" alt="иконка просмотра"></a></td>
+    <td><a href="https://github.com/annmiers/zakrivayuschiy-teg-f"><img src="document_11560016.png" width="50px" height="50px" alt="иконка папки"></a></td>
   </tr>
 </table>
